@@ -29,8 +29,8 @@ I'm a passionate software engineer and problem solver with a deep interest in cr
 - I’m currently building an advanced e-commerce website with Razorpay and Shiprocket integration.
 
 ## Projects & Contributions
-- **[Login Page](https://github.com/Jainex2/Login Page):** I recently Create a UI for Login page including forgotten password and sign up pages.
-- **[E-Commerce](https://github.com/Jainex2/E-commerce):** I reenetly created an e commerce app that includes all the faciltyies like signup for seller and user and product adding functionality for seller and adding cart by user
+- **[Login Page](https://github.com/Jainex2/Login-page):** I recently Create a UI for Login page including forgotten password and sign up pages.
+- **[E-Commerce](https://github.com/Jainex2/Ecom):** I reenetly created an e commerce app that includes all the faciltyies like signup for seller and user and product adding functionality for seller and adding cart by user
 - **Open Source Contributions:** I am always looking forwad to contribute to any open souce project 
 ## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jainex2&show_icons=true&theme=radical)](https://github.com/Jainex2)
